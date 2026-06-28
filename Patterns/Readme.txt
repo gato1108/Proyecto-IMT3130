@@ -1,0 +1,1 @@
+Images ending in k0005 use k=0.005, they make great patterns in some cases, but sometimes can generate instability, that's why the others use k=0.05
