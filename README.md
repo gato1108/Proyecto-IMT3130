@@ -1,4 +1,4 @@
-# NOMBRE DEL PROYECTO
+# Modelo Keller-Segel simplificado: Análisis y estudio de patrones de Turing
 
 El presente repositorio contiene los códigos y referencias principales de nuestro proyecto final del curso IMT3130 "_aplicaciones de ecuaciones diferenciales parciales y análisis funcional en ingeniería_", cursado el primer semestre del año 2026.
 
@@ -17,11 +17,11 @@ El objetivo de este proyecto es adentrarse en el mundo de ecuaciones diferencial
 ```text
 .
 ├── Patrones/             
-│   ├── doc_1             
-│   └── doc_2                              
-├── Simulaciones/             
-│   ├── doc_1             
-│   └── doc_2            
+│   ├── 51image3d.png   
+│       ...  
+│   └── keller_segel_snapshot_lambda0.png                        
+├── Simulaciones.ipynb         
+├── pattern_formation.py         
 ├── Referencias/   
 │   ├── Adrien_Blanchet.pdf       
 │   ├── Elena_Floris.pdf      
