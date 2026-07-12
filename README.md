@@ -17,9 +17,9 @@ El objetivo de este proyecto es adentrarse en el mundo de ecuaciones diferencial
 ```text
 .
 ├── imagenes/             
-│   ├── 51image3d.png   
+│   ├── caso1_keller_segel_evolution_64_0.001_1.0_0.5.gif   
 │       ...  
-│   └── keller_segel_snapshot_lambda0.png                        
+│   └── stripes_pattern_keller_segel_logistico_192...gif                        
 ├── Patrones.py        
 ├── error.py
 ├── soluciones_manufacturadas.py
