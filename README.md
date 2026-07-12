@@ -16,12 +16,14 @@ El objetivo de este proyecto es adentrarse en el mundo de ecuaciones diferencial
 ## Estructura del Proyecto
 ```text
 .
-├── Patrones/             
+├── imagenes/             
 │   ├── 51image3d.png   
 │       ...  
 │   └── keller_segel_snapshot_lambda0.png                        
-├── Simulaciones.ipynb         
-├── pattern_formation.py         
+├── Patrones.py        
+├── error.py
+├── soluciones_manufacturadas.py
+├── solver.py        
 ├── Referencias/   
 │   ├── Adrien_Blanchet.pdf       
 │   ├── Elena_Floris.pdf      
